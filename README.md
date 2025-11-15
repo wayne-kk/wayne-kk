@@ -26,7 +26,7 @@
 
 ### 🧰 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,electron,tailwind,webpack,vite,git,github,linux,nginx,docker,prisma,postgres,supabase,vercel,jest,vitest,turbo&perline=11" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,electron,tailwind,vite,prisma,supabase,vercel,&perline=11" />
 </p>
 
 
